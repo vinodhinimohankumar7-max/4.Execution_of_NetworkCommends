@@ -27,6 +27,16 @@ This commands includes
 <BR>
 
 ## Output
-
+server.py
+![alt text](<Screenshot 2026-03-09 161544.png>)
+client.py
+![alt text](<Screenshot 2026-03-09 160445.png>)
+ipconfig
+![alt text](<Screenshot 2026-03-09 160256.png>)  
+ping
+![alt text](<Screenshot 2026-03-09 160320.png>)
+tracert   
+![alt text](<Screenshot 2026-03-09 160349.png>)   
+                         
 ## Result
 Thus Execution of Network commands Performed 
